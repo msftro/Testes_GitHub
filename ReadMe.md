@@ -2,6 +2,11 @@
 
 Curso de Git e GitHub
 
+# Dia 1
+
+* Aprender os comendos básicos;
+* Entender a dinâmica entre Git e GitHu.
+
 # Dia 2
 
 * Criar um repositório no GitHub;
